@@ -1,2 +1,2 @@
 # ENSF-337-Final-Project
-This is the code base for the final project for ENSF 337 at the University of Calgary. The program is a terminal based airline flight seating system
+This is the code base for the final project for ENSF 337 at the University of Calgary. The program is a terminal based airline flight seating system that can complete various functions such as adding or removing passengers from the seating list, display the seat map for the plane, display all current passengers on the flight and their information, while being able to read passenger info for a flight from a text file and save current info as well. This all works for a variable sized plane and uses a plethora of input monitoring techniques 
